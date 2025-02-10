@@ -1,0 +1,34 @@
+/*this is a style sheet*/
+body {
+max-width: 60em;
+margin: 0 auto 0 auto;
+}
+
+table, th, td {
+border-collapse: collapse;
+border: 1px solid #000;
+padding: 1em;
+}
+body {
+    background-color: antiquewhite;
+    background-image: url("lenore.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+  }
+h1 {
+    background-color: blueviolet;
+}
+body {
+    border-style: outset;
+    border-width: medium;
+}
+p {
+    margin: 100px;
+}
+h1 {
+    text-shadow: 2px 2px red;
+}
+p {
+    background-color: aqua;
+}
+/*This is end*/
